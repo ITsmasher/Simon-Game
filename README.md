@@ -32,3 +32,8 @@ To run the game locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ITsmasher/Simon-Game.git
+
+2. Navigate to the project directory:
+**cd Simon-Game**
+
+4. Open the game: Open **index.html** in your preferred web browser.
